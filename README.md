@@ -24,6 +24,7 @@ As Mentioned above, there are two parts in this project and for each part there 
 
 ## Datasets:
 In our project we have two different datasets but both of them are under one topic.
+
 1-	Alzheimer MRI Preprocessed Dataset:
 For our project we used Alzheimer Brain MRI Preprocessed Dataset for the deep learning part, Preprocessed Alzheimer Disease Brain MRI (Magnetic Resonance Imaging). This dataset consists of 4 classes including 6400 MRI images.
 +	Class 1: Mild Demented (896 images).
