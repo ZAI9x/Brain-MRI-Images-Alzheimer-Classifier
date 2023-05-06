@@ -26,7 +26,7 @@ As Mentioned above, there are two parts in this project and for each part there 
 ## Datasets:
 In our project we have two different datasets but both of them are under one topic.
 
-1-	Alzheimer MRI Preprocessed Dataset:
+1. Alzheimer MRI Preprocessed Dataset:
 For our project we used Alzheimer Brain MRI Preprocessed Dataset for the deep learning part, Preprocessed Alzheimer Disease Brain MRI (Magnetic Resonance Imaging). This dataset consists of 4 classes including 6400 MRI images.
 +	Class 1: Mild Demented (896 images).
 +	Class 2: Moderate Demented (64 images).
@@ -36,7 +36,7 @@ For our project we used Alzheimer Brain MRI Preprocessed Dataset for the deep le
 The main motive behind sharing this dataset is to design or to develop an accurate framework or architecture for the classification of Alzheimers Disease. It falls (classified) under Computer Science, Classification, Deep Learning, and CNN.
 
 
-2-	MRI and Alzheimers:
+2. MRI and Alzheimers:
 For our project we used MRI and Alzheimers Dataset for the machine learning part, Magnetic Resonance Imaging Comparisons of Demented and Nondemented Adults. This dataset consists of 2 classes of 566 subjects.
 +	Cross-sectional MRI Data in Young, Middle Aged, Nondemented and Demented Older Adults (416 subjects).
 +	Longitudinal MRI Data in Nondemented and Demented Older Adults (150 subjects).
