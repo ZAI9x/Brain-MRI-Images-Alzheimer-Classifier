@@ -2,6 +2,7 @@
 
 ## Introduction:
 It is hard for doctors to determine if someone has Alzeheimer diseases or not, either by using images or by text data. Machine learning and deep learning algorithms can be used to solve this problem by classifying the data into different categories.
+
 In this project, we will propose a new model that classify the brain MRI images of the patients using Deep learning. We will also apply Machine learning algorithms based on specific features from the dataset. 
  
 Alzeheimer Classification Model
