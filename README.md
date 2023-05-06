@@ -7,8 +7,8 @@ In this project, we will propose a new model that classify the brain MRI images 
 Alzeheimer Classification Model
 ## Motivation:
 The project main function is to detect (classify) AlZehaimar. It includes two parts, which are machine learning (ML) part and deep learning part (DL).
-	ML part: The input data for this part is structured data (.csv file). Multiple ML classification algorithms are applied to it (Such as, random forest, SVM, ... etc).
-	DL part: The input data for this part is brain MRI images. CNN is applied to classify images.
++	ML part: The input data for this part is structured data (.csv file). Multiple ML classification algorithms are applied to it (Such as, random forest, SVM, ... etc).
++	DL part: The input data for this part is brain MRI images. CNN is applied to classify images.
 
 ## Methods:
 As Mentioned above, there are two parts in this project and for each part there are many applied methods.
