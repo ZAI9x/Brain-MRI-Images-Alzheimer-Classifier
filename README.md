@@ -5,7 +5,7 @@ It is hard for doctors to determine if someone has Alzeheimer diseases or not, e
 
 In this project, we will propose a new model that classify the brain MRI images of the patients using Deep learning. We will also apply Machine learning algorithms based on specific features from the dataset. 
  
-Alzeheimer Classification Model
+## Alzeheimer Classification Model
 ## Motivation:
 The project main function is to detect (classify) AlZehaimar. It includes two parts, which are machine learning (ML) part and deep learning part (DL).
 +	ML part: The input data for this part is structured data (.csv file). Multiple ML classification algorithms are applied to it (Such as, random forest, SVM, ... etc).
