@@ -15,6 +15,7 @@ The project main function is to detect (classify) AlZehaimar. It includes two pa
 As Mentioned above, there are two parts in this project and for each part there are many applied methods.
 ### ML part.
 +	Random Forest: is a supervised machine learning algorithm which is extremely popular and is used for Classification and Regression problems in Machine Learning. It is consisting of many decisions trees.
++	![Random Forest](Brain-MRI-Images-Alzheimer-Classifier/Picture1.png)
 
 +	Support vector machine (SVM): is one of the most popular Machine Learning classification algorithms, is a further extension of the Support Vector Classifier (SVC) and Maximal Margin Classifier (MMC) which is used in order to accommodate non-linear class boundaries.
 
