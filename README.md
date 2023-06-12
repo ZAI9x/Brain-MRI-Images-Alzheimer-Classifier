@@ -15,10 +15,10 @@ The project main function is to detect (classify) AlZehaimar. It includes two pa
 As Mentioned above, there are two parts in this project and for each part there are many applied methods.
 ### ML part.
 +	Random Forest: is a supervised machine learning algorithm which is extremely popular and is used for Classification and Regression problems in Machine Learning. It is consisting of many decisions trees.
- <img src="images/img1.png" alt="Random Forest" width="500" height="500">
+	<img src="images/img1.png" alt="Random Forest" width="500" height="500">
 
 +	Support vector machine (SVM): is one of the most popular Machine Learning classification algorithms, is a further extension of the Support Vector Classifier (SVC) and Maximal Margin Classifier (MMC) which is used in order to accommodate non-linear class boundaries.
- <img src="images/img2.png" alt="SVM" width="500" height="500">
+	<img src="images/img2.png" alt="SVM" width="500" height="500">
  
 +	Adaboost: is the most popular versions of boosting. It works on the principle of learners growing sequentially. Except for the first, each subsequent learner is grown from previously grown learners.
  <img src="images/img3.png" alt="Adaboost" width="900" height="500">
