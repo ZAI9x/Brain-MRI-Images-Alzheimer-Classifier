@@ -21,11 +21,11 @@ As Mentioned above, there are two parts in this project and for each part there 
  <img src="images/img2.png" alt="SVM" width="500" height="500">
  
 +	Adaboost: is the most popular versions of boosting. It works on the principle of learners growing sequentially. Except for the first, each subsequent learner is grown from previously grown learners.
- <img src="images/img3.png" alt="Adaboost" width="800" height="500">
+ <img src="images/img3.png" alt="Adaboost" width="900" height="500">
  
 ### DL part.
 +	Convolutional Neural Network (CNN): was primarily designed for image data. It uses a convolutional operator for extracting data features, allows parameter sharing, is efficient to train, and it has less parameters than NNs with fully connected layers.
-+ <img src="images/img4.png" alt="CNN" width="900" height="500">
+ <img src="images/img4.png" alt="CNN" width="1000" height="500">
 
 ## Datasets:
 In our project we have two different datasets but both of them are under one topic.
