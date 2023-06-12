@@ -54,21 +54,21 @@ In this project, we applied machine learning and deep learning algorithms on two
 
 ## Sources:
 
-	https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers?datasetId=1980&sortBy=voteCount&language=Python
++	https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers?datasetId=1980&sortBy=voteCount&language=Python
 
-	https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset
++	https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset
 
-	https://www.kaggle.com/code/psycon/brain-mri-image-alzheimer-classifier
++	https://www.kaggle.com/code/psycon/brain-mri-image-alzheimer-classifier
 
-	https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
++	https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
 
-	https://machinelearningmastery.com/adaboost-ensemble-in-python/
++	https://machinelearningmastery.com/adaboost-ensemble-in-python/
 
-	https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4#:~:text=CNN%20is%20a%20type%20of,features%20automatically%20for%20better%20classification.
++	https://towardsdatascience.com/understanding-cnn-convolutional-neural-network-69fd626ee7d4#:~:text=CNN%20is%20a%20type%20of,features%20automatically%20for%20better%20classification.
 
-	https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm#:~:text=A%20Random%20Forest%20Algorithm%20is,more%20it%20will%20be%20robust.
++	https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm#:~:text=A%20Random%20Forest%20Algorithm%20is,more%20it%20will%20be%20robust.
 
-	https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/
++	https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/
 
-	https://www.javatpoint.com/machine-learning-support-vector-machine-algorithm
++	https://www.javatpoint.com/machine-learning-support-vector-machine-algorithm
 
